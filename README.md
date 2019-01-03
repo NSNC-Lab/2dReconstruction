@@ -7,7 +7,7 @@ Applications:
 
 ## Example
 Reconstruct a one-dimensional signal envelope from 36-frequency-channel neural spikes.
-
+*Run Example.ipynb for quick demo.*
 ### Inputs
 ![Alt text](figures/input.png)
 
