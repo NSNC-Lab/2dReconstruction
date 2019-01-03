@@ -7,21 +7,22 @@ Applications:
 
 ## Example
 Reconstruct a one-dimensional signal envelope from 36-frequency-channel neural spikes.
+
+### Inputs
 ![Alt text](figures/input.png)
 
-Use gradient descent to find optimal 2d reconstruction filter.
+After running 10 epochs of gradient descent to find optimal 2d reconstruction filter.
+### Results
 ![Alt text](figures/result.png)
 
 ## Requirements
 This package has the following requirements:
-* 
-```
-python 3.7
-```
-*
 
 ```
-pytorch 1.0.0
+* python 3.7
+```
+```
+* pytorch 1.0.0
 ```
 
 
@@ -31,7 +32,8 @@ This project was part of the PhD dissertation by **Junzi Dong**. Defended on Dec
 
 
 ## References
-Paper link
+Please cite the following paper if you find the code useful in your research:
+link to paper
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
