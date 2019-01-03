@@ -8,7 +8,7 @@ User-friendly code for training 2d reconstruction filters.
 ## Example
 Reconstruct a one-dimensional signal envelope from 36-frequency-channel neural spikes.
 
-*Run Example.ipynb for quick demo.*
+*Run Example.ipynb for a quick demo.*
 ### Inputs
 ![Alt text](figures/input.png)
 
