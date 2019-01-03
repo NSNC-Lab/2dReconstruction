@@ -2,7 +2,7 @@
 User-friendly code for training 2d reconstruction filters.
 
 Applications:
-* Reconstruct signals from multi-channel neural spikes
+* Reconstruct a signal from multi-channel neural spikes
 * Impute missing data from multiple signals
 
 ## Example
@@ -18,13 +18,8 @@ After running 10 epochs of gradient descent to find optimal 2d reconstruction fi
 ## Requirements
 This package has the following requirements:
 
-```
-* python 3.7
-```
-```
-* pytorch 1.0.0
-```
-
+* ```python 3.7```
+* ```pytorch 1.0.0```
 
 
 ## Author
