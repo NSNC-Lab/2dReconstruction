@@ -1,12 +1,13 @@
 # 2dReconstruction
 User-friendly code for training 2d reconstruction filters.
 
-Applications:
+**Applications**
 * Reconstruct a signal from multi-channel neural spikes
 * Impute missing data from multiple signals
 
 ## Example
 Reconstruct a one-dimensional signal envelope from 36-frequency-channel neural spikes.
+
 *Run Example.ipynb for quick demo.*
 ### Inputs
 ![Alt text](figures/input.png)
